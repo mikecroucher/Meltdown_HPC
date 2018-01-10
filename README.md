@@ -1,6 +1,6 @@
 # Melthdown and High Performance Computing
 
-## Authors:
+## Authors (Alphabetical by surname): Mike Croucher (University of Sheffield), Adrian Jackson (EPCC), ADD YOUR NAME TOO AS SOON AS YOU'VE CONTRIBUTED
 
 Collaborative blog post about the effect of meltdown on HPC systems. 
 
