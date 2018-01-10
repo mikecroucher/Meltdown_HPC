@@ -1,4 +1,4 @@
-# Melthdown and High Performance Computing
+# Meltdown and High Performance Computing
 
 ## Authors (Alphabetical by surname): Mike Croucher (University of Sheffield), Adrian Jackson (EPCC), ADD YOUR NAME TOO AS SOON AS YOU'VE CONTRIBUTED
 
