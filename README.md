@@ -37,3 +37,7 @@ More stuff goes here
 ## More benchmark results
 
 with your results underneath
+
+# Results published elsewhere
+
+* [Redhat's experiments](https://access.redhat.com/articles/3307751) showing worst-case performance drops of 19% in certain benchmarks.
