@@ -41,3 +41,4 @@ with your results underneath
 # Results published elsewhere
 
 * [Redhat's experiments](https://access.redhat.com/articles/3307751) showing worst-case performance drops of 19% in certain benchmarks.
+* [Wikipedia](https://en.wikipedia.org/wiki/Kernel_page-table_isolation#Implementation) article showing a summary of various benchmarks.
